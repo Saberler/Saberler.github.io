@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{498:function(t,s,e){"use strict";e.r(s);var i={name:"ICard",data:()=>({title:"icar title"})},n=e(3),a=Object(n.a)(i,(function(){var t=this._self._c;return t("div",[this._v("\n  "+this._s(this.title)+"\n  "),t("el-button",{attrs:{type:"success"}},[this._v("按钮")])],1)}),[],!1,null,"274bc56e",null);s.default=a.exports}}]);
